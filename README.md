@@ -10,7 +10,7 @@ A fun and interactive **memory game** built with HTML, CSS, and JavaScript! Chal
 - 📱 **Responsive Design** for different screen sizes
 
 🚀 How to Play?
-1. Click the **Start Button** (if available).
+1. Click the **Start Button**.
 2. Watch the **flashing sequence** of colors.
 3. **Repeat** the sequence by clicking the buttons in the correct order.
 4. Each round adds **a new step** to the sequence.
