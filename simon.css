@@ -1,0 +1,51 @@
+h1{
+  color: red;
+}
+body{
+  text-align: center;
+
+}
+
+.box{
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 2.5rem;
+}
+
+.btn-container{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.yellow{
+  background-color: #eb8b31;
+}
+
+.green{
+  background-color: #1eb8e7;
+}
+
+.red{
+  background-color: #e01653;
+}
+
+.blue{
+  background-color: #1441e2;
+}
+
+.flash{
+  background-color: white;
+}
+
+.userFalsh{
+  background-color: green;
+}
+
+
+
+
+
+
